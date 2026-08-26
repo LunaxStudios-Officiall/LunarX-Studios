@@ -1,0 +1,209 @@
+LUNARX AGENT — LICENÇA PROPRIETÁRIA PARA ESTUDO
+Versão 1.0 — 2026
+
+Copyright © 2026 LunarX Studios. Todos os direitos reservados.
+
+IMPORTANTE: Esta é uma licença proprietária. O LunarX Agent NÃO é software de código aberto
+(open source) e esta licença não concede permissão geral para copiar, modificar, redistribuir,
+publicar, sublicenciar ou criar trabalhos derivados.
+
+Ao baixar, acessar, instalar ou utilizar o LunarX Agent, você concorda com os termos abaixo.
+
+1. OBJETO
+
+Esta licença se aplica ao LunarX Agent e aos materiais originais distribuídos com ele, incluindo,
+quando pertencentes à LunarX Studios ou aos respectivos titulares do projeto:
+
+- código-fonte;
+- Skills;
+- prompts;
+- arquivos de configuração;
+- regras e políticas;
+- sistemas de roteamento;
+- estruturas de contexto e checkpoints;
+- documentação;
+- schemas;
+- scripts;
+- exemplos;
+- testes;
+- interfaces;
+- textos;
+- elementos gráficos;
+- organização e estrutura do projeto;
+- demais materiais originais incluídos na distribuição.
+
+Componentes de terceiros permanecem sujeitos às suas próprias licenças e termos.
+
+2. PERMISSÃO LIMITADA PARA ESTUDO
+
+A LunarX Studios concede ao usuário uma permissão pessoal, limitada, revogável, não exclusiva,
+não transferível e não sublicenciável para:
+
+a) baixar uma cópia do pacote disponibilizado oficialmente;
+b) armazenar essa cópia em dispositivo próprio;
+c) executar o software para avaliação e estudo pessoal;
+d) visualizar e estudar o código, as Skills, os prompts, a arquitetura e a documentação;
+e) analisar o funcionamento do projeto para fins educacionais e de aprendizado pessoal.
+
+Também são permitidas as cópias técnicas temporárias criadas automaticamente pelo sistema
+operacional ou pelo software quando estritamente necessárias para executar ou visualizar o projeto.
+
+Nenhum outro direito é concedido.
+
+3. PROIBIÇÃO DE REDISTRIBUIÇÃO E CÓPIA PARA TERCEIROS
+
+Sem autorização prévia e expressa da LunarX Studios, é proibido:
+
+a) redistribuir o LunarX Agent, total ou parcialmente;
+b) reenviar, republicar, espelhar, hospedar ou disponibilizar o pacote ou seus arquivos para terceiros;
+c) publicar cópias em sites, repositórios, serviços de armazenamento, fóruns, redes sociais,
+   plataformas de código, torrents ou outros meios;
+d) entregar cópias a outras pessoas ou organizações;
+e) vender, alugar, sublicenciar, ceder ou comercializar qualquer parte do projeto;
+f) remover ou ocultar avisos de autoria, copyright, licença ou identificação da LunarX.
+
+4. PROIBIÇÃO DE MODIFICAÇÃO E DERIVADOS PARA DISTRIBUIÇÃO
+
+Sem autorização prévia e expressa da LunarX Studios, é proibido:
+
+a) publicar ou distribuir versões modificadas do LunarX Agent;
+b) criar e distribuir forks;
+c) criar e distribuir produtos derivados baseados substancialmente no LunarX Agent;
+d) renomear, reembalar ou reapresentar o projeto como produto próprio;
+e) utilizar partes substanciais do projeto para recriar um agente equivalente destinado à distribuição.
+
+Alterações estritamente locais feitas apenas para estudo pessoal não concedem qualquer direito de
+publicação, redistribuição, sublicenciamento ou comercialização da versão alterada.
+
+5. SKILLS, PROMPTS E ESTRUTURAS DO AGENTE
+
+Sem autorização prévia e expressa da LunarX Studios, é proibido extrair, copiar ou reutilizar Skills,
+prompts, políticas, regras de roteamento, mecanismos de contexto, estruturas de validação,
+checkpoints, registries, manifests ou outros componentes originais do LunarX Agent em:
+
+a) outro agente de inteligência artificial;
+b) outro produto ou serviço;
+c) uma biblioteca de prompts ou Skills;
+d) um dataset;
+e) um sistema comercial ou não comercial destinado a terceiros;
+f) um projeto público ou privado de redistribuição.
+
+O estudo desses materiais para aprendizado pessoal continua permitido nos limites da Seção 2.
+
+6. TREINAMENTO, DATASETS E EXTRAÇÃO AUTOMATIZADA
+
+Sem autorização prévia e expressa da LunarX Studios, o conteúdo original do LunarX Agent não pode
+ser utilizado como corpus ou dataset para treinamento, fine-tuning, destilação, clonagem,
+replicação de comportamento ou criação de um produto substituto.
+
+Também não é concedida permissão para coleta automatizada em massa, scraping, extração sistemática
+ou criação de bancos de dados destinados a reproduzir ou reutilizar os materiais protegidos.
+
+7. USO COMERCIAL
+
+Esta licença não concede direito de explorar comercialmente o LunarX Agent ou seus materiais.
+
+É proibido, sem autorização prévia e expressa:
+
+a) vender o LunarX Agent ou cópias dele;
+b) cobrar pelo acesso ao pacote;
+c) incorporar componentes protegidos em produto ou serviço comercial;
+d) oferecer versões derivadas ou reempacotadas;
+e) utilizar o projeto como base substancial de produto concorrente destinado à distribuição.
+
+8. AUTORIA, CRÉDITOS E IDENTIDADE
+
+Os avisos de autoria, copyright, licença e créditos incluídos no projeto devem ser preservados.
+
+Nenhuma disposição desta licença transfere propriedade intelectual para o usuário.
+
+A disponibilização do código ou dos arquivos para inspeção não constitui renúncia de direitos.
+
+9. MARCAS E IDENTIDADE LUNARX
+
+Esta licença não concede direito de uso de marcas, logos, nomes comerciais, identidade visual,
+insígnias ou outros sinais distintivos da LunarX Studios ou do LunarX Agent, exceto a referência
+textual necessária para identificar corretamente o projeto original.
+
+É proibido apresentar qualquer projeto, versão, fork, serviço ou material não autorizado como
+oficial, aprovado, patrocinado ou produzido pela LunarX Studios.
+
+10. COMPONENTES DE TERCEIROS
+
+Bibliotecas, ferramentas, fontes, assets, modelos, softwares e outros componentes de terceiros
+incluídos ou utilizados pelo projeto permanecem sujeitos às licenças e termos de seus respectivos
+titulares.
+
+Esta licença se aplica somente aos materiais sobre os quais a LunarX Studios ou os titulares
+identificados do LunarX Agent possuam direitos suficientes para licenciá-los.
+
+Quando houver conflito em relação a um componente de terceiro, prevalece a licença aplicável
+àquele componente.
+
+11. AUSÊNCIA DE TRANSFERÊNCIA DE PROPRIEDADE
+
+O download ou uso do LunarX Agent não vende nem transfere ao usuário o código, as Skills,
+a documentação, os direitos autorais, as marcas ou qualquer outra propriedade intelectual.
+
+O usuário recebe exclusivamente as permissões limitadas de estudo descritas nesta licença.
+
+12. EXCEÇÕES LEGAIS OBRIGATÓRIAS
+
+Nada nesta licença pretende eliminar direitos, exceções ou limitações que sejam obrigatoriamente
+garantidos pela legislação aplicável e que não possam ser afastados por contrato ou licença.
+
+13. ENCERRAMENTO DA LICENÇA
+
+As permissões concedidas por esta licença terminam automaticamente se o usuário violar seus termos.
+
+Após o encerramento, o usuário deverá cessar qualquer uso não autorizado e remover cópias cuja
+manutenção não seja exigida ou permitida pela legislação aplicável.
+
+O encerramento não elimina responsabilidades decorrentes de violações anteriores.
+
+14. AUSÊNCIA DE GARANTIA
+
+Na máxima extensão permitida pela legislação aplicável, o LunarX Agent é fornecido no estado em que
+se encontra ("as is"), sem garantia de funcionamento ininterrupto, compatibilidade universal,
+ausência de erros ou adequação a finalidade específica.
+
+Nenhuma disposição desta seção limita direitos ou responsabilidades que não possam ser legalmente
+excluídos.
+
+15. LEGISLAÇÃO APLICÁVEL
+
+Esta licença será interpretada de acordo com a legislação brasileira, sem afastar normas
+obrigatórias aplicáveis ao caso concreto.
+
+16. AUTORIZAÇÕES ESPECIAIS
+
+Qualquer permissão para redistribuição, modificação destinada a terceiros, integração,
+licenciamento, publicação, uso comercial ou outra utilização não prevista nesta licença deverá
+ser concedida separadamente e de forma expressa pela LunarX Studios ou pelo titular de direitos
+competente.
+
+17. RESUMO NÃO VINCULANTE
+
+Em termos simples:
+
+PERMITIDO:
+- baixar o pacote oficial;
+- manter uma cópia pessoal;
+- executar para avaliação;
+- abrir e estudar os arquivos;
+- aprender com a arquitetura e com o funcionamento.
+
+NÃO PERMITIDO SEM AUTORIZAÇÃO:
+- redistribuir;
+- repostar ou espelhar;
+- compartilhar cópias;
+- publicar forks;
+- distribuir versões modificadas;
+- copiar Skills ou prompts para outro agente;
+- reutilizar partes substanciais em outro produto;
+- vender ou comercializar;
+- utilizar como dataset para treinar ou clonar outro sistema;
+- remover créditos;
+- apresentar uma cópia ou derivado como produto oficial LunarX.
+
+FIM DA LICENÇA

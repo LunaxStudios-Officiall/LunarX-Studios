@@ -1,0 +1,188 @@
+COLLECT — LICENÇA PROPRIETÁRIA DE USO
+Versão 1.0
+
+Copyright © 2025 LunarX Studios. Todos os direitos reservados.
+
+IMPORTANTE
+
+COLLECT é um software proprietário. Esta licença NÃO é uma licença open source e não concede
+permissão geral para copiar, modificar, redistribuir, publicar, sublicenciar, vender ou criar
+trabalhos derivados do jogo.
+
+Ao baixar, instalar, executar ou utilizar COLLECT, você concorda com os termos abaixo.
+
+1. LICENÇA DE USO
+
+A LunarX Studios concede ao usuário uma licença pessoal, limitada, não exclusiva,
+não transferível e não sublicenciável para:
+
+a) baixar uma cópia oficial do jogo;
+b) instalar e executar o jogo em dispositivos próprios;
+c) jogar para uso pessoal e não comercial;
+d) manter uma cópia de segurança exclusivamente para uso pessoal.
+
+Nenhum direito de propriedade intelectual é transferido ao usuário.
+
+2. REDISTRIBUIÇÃO
+
+Sem autorização prévia e expressa da LunarX Studios, é proibido:
+
+a) redistribuir COLLECT, total ou parcialmente;
+b) reenviar, republicar, espelhar, hospedar ou disponibilizar o jogo para terceiros;
+c) publicar o jogo em outros sites, lojas, repositórios, serviços de armazenamento,
+   torrents, fóruns, redes sociais ou plataformas de distribuição;
+d) incluir o jogo em coletâneas, pacotes, launchers ou instaladores de terceiros;
+e) fornecer cópias do jogo a outras pessoas ou organizações.
+
+O download deve ser realizado pelos canais oficiais indicados pela LunarX Studios.
+
+3. MODIFICAÇÕES E TRABALHOS DERIVADOS
+
+Sem autorização prévia e expressa da LunarX Studios, é proibido:
+
+a) distribuir versões modificadas do jogo;
+b) criar ou distribuir forks, ports não autorizados ou versões reempacotadas;
+c) alterar o jogo para remover créditos, avisos, identidade ou mecanismos de proteção;
+d) publicar traduções, remasters, remakes ou adaptações que reutilizem materiais protegidos
+   do COLLECT;
+e) utilizar o jogo ou partes substanciais dele como base para um produto derivado destinado
+   à distribuição.
+
+Alterações locais estritamente necessárias para compatibilidade pessoal não concedem qualquer
+direito de redistribuição ou publicação da versão alterada.
+
+4. CÓDIGO, ASSETS E CONTEÚDO
+
+Salvo quando um componente de terceiro possuir licença própria que permita o contrário,
+é proibido extrair, copiar, reutilizar ou redistribuir materiais originais do COLLECT,
+incluindo, entre outros:
+
+- código e lógica do jogo;
+- imagens, sprites e animações;
+- músicas e efeitos sonoros;
+- textos, diálogos e narrativa;
+- personagens e elementos visuais;
+- mapas, fases e arquivos de dados;
+- interfaces e elementos gráficos;
+- nomes, logos e identidade visual;
+- demais materiais originais protegidos.
+
+A simples possibilidade técnica de acessar ou extrair um arquivo não constitui autorização
+para reutilizá-lo.
+
+5. USO COMERCIAL
+
+Esta licença não concede qualquer direito de exploração comercial.
+
+Sem autorização prévia e expressa da LunarX Studios, é proibido:
+
+a) vender o jogo;
+b) cobrar pelo acesso ao jogo;
+c) sublicenciar ou alugar cópias;
+d) vender versões modificadas, ports, pacotes ou derivados;
+e) incorporar materiais protegidos do COLLECT a outro produto comercial;
+f) utilizar o jogo ou seus assets como parte de serviço pago destinado a terceiros.
+
+6. ENGENHARIA REVERSA E EXTRAÇÃO
+
+Na máxima extensão permitida pela legislação aplicável, é proibido realizar engenharia reversa,
+descompilação, desmontagem ou extração com a finalidade de copiar, reutilizar, redistribuir,
+contornar proteções ou criar produtos derivados do COLLECT.
+
+Esta cláusula não pretende eliminar direitos ou exceções que a legislação aplicável determine
+como obrigatórios e irrenunciáveis.
+
+7. CRÉDITOS E AUTORIA
+
+Os avisos de autoria, copyright, licença e créditos existentes no jogo ou na distribuição
+não podem ser removidos, ocultados ou apresentados de maneira enganosa.
+
+Nenhuma pessoa poderá apresentar COLLECT, uma cópia, modificação ou material derivado não autorizado
+como criação própria ou como produto oficial aprovado pela LunarX Studios.
+
+8. MARCAS E IDENTIDADE
+
+Esta licença não concede direito de uso comercial ou institucional do nome LunarX Studios,
+COLLECT, logos, identidade visual, marcas, insígnias ou outros sinais distintivos,
+exceto quando necessário para identificar corretamente o jogo original.
+
+Nenhum produto, modificação, página, serviço ou distribuição não autorizada poderá ser apresentada
+como oficial, patrocinada, endossada ou aprovada pela LunarX Studios.
+
+9. COMPONENTES DE TERCEIROS
+
+COLLECT pode incluir bibliotecas, engines, fontes, ferramentas, assets ou outros componentes
+pertencentes a terceiros.
+
+Esses componentes permanecem sujeitos às licenças e termos de seus respectivos titulares.
+
+Esta licença proprietária se aplica somente aos materiais sobre os quais a LunarX Studios
+ou os titulares aplicáveis do COLLECT possuam direitos suficientes para licenciá-los.
+
+Quando um componente de terceiro possuir sua própria licença, essa licença prevalece
+sobre aquele componente específico.
+
+10. ATUALIZAÇÕES E VERSÕES
+
+Atualizações, correções, expansões e novas versões do COLLECT poderão possuir condições adicionais
+ou uma versão atualizada desta licença.
+
+A obtenção de uma nova versão não transfere ao usuário direitos sobre versões anteriores,
+código-fonte ou materiais internos além das permissões expressamente concedidas.
+
+11. AUSÊNCIA DE GARANTIA
+
+Na máxima extensão permitida pela legislação aplicável, COLLECT é fornecido no estado em que
+se encontra ("as is"), sem garantia de funcionamento ininterrupto, ausência absoluta de erros,
+compatibilidade universal ou adequação a finalidade específica.
+
+Nada nesta cláusula limita direitos ou responsabilidades que não possam ser legalmente excluídos.
+
+12. ENCERRAMENTO DA LICENÇA
+
+As permissões concedidas por esta licença poderão terminar automaticamente em caso de violação
+destes termos.
+
+O encerramento não elimina responsabilidades decorrentes de atos realizados antes da violação
+nem transforma uso anteriormente não autorizado em uso autorizado.
+
+13. EXCEÇÕES LEGAIS OBRIGATÓRIAS
+
+Nada nesta licença pretende afastar direitos, limitações, exceções ou permissões que sejam
+obrigatoriamente garantidos pela legislação aplicável e que não possam ser excluídos por contrato.
+
+14. LEGISLAÇÃO APLICÁVEL
+
+Esta licença será interpretada de acordo com a legislação brasileira, sem afastar normas
+obrigatórias aplicáveis ao caso concreto.
+
+15. AUTORIZAÇÕES ESPECIAIS
+
+Qualquer permissão para redistribuição, modificação destinada a terceiros, uso comercial,
+licenciamento, publicação, tradução, port, adaptação ou outra utilização não prevista nesta licença
+deverá ser concedida separadamente e de forma expressa pela LunarX Studios ou pelo titular de
+direitos competente.
+
+16. RESUMO NÃO VINCULANTE
+
+PERMITIDO:
+- baixar o jogo pelos canais oficiais;
+- instalar;
+- jogar para uso pessoal;
+- manter uma cópia pessoal de segurança.
+
+NÃO PERMITIDO SEM AUTORIZAÇÃO:
+- redistribuir;
+- repostar ou espelhar;
+- vender;
+- compartilhar publicamente;
+- distribuir versões modificadas;
+- criar e distribuir forks, remakes ou ports;
+- reutilizar código ou assets originais;
+- remover créditos;
+- apresentar o jogo ou materiais extraídos como próprios.
+
+Este resumo serve apenas para facilitar a compreensão. Em caso de diferença, prevalece o texto
+integral desta licença.
+
+FIM DA LICENÇA
