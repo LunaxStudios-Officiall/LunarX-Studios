@@ -261,200 +261,323 @@ Todos os direitos reservados.
 NOME: LunarX Agent
 VERSAO: 4.0.0
 LOGO: https://github.com/LunaxStudios-Officiall/LunarX-Studios/blob/LunarX-Logos/LunarX%20Agent%20LOGO.png?raw=true
-PLATAFORMAS: Estudos, Agent, Workspace
+PLATAFORMAS: Estudos, Agent, Workspace, GPTs
 LINKS:
-Agent Estudos | https://www.mediafire.com/file/uvz3puanwvuyi3t/LunarX_Agent_Estudos_V4.zip/file
+Estudos | https://www.mediafire.com/file/uvz3puanwvuyi3t/LunarX_Agent_Estudos_V4.zip/file
 Agent | https://www.mediafire.com/file/1gesa1acz8jzle4/LunarX_Agent_V4.zip/file
 Workspace | https://www.mediafire.com/file/z7afh0l328t1871/LunarX_Agent_Workspace_V4.zip/file
+GPTs | https://chatgpt.com/g/g-6a6032b8f2388191adc82e2510e29089-lunarx-agent
 DESCRICAO:
-LunarX Agent é um sistema de inteligência artificial desenvolvido pela LunarX Studios para transformar diferentes modelos de IA em agentes mais organizados, especializados e preparados para trabalhar em tarefas e projetos reais.
+# LunarX Agent
 
-Em vez de depender apenas do conhecimento e do comportamento padrão da inteligência artificial utilizada, o LunarX Agent adiciona uma estrutura própria formada por Skills especializadas, regras de trabalho, gerenciamento de contexto, validação e diferentes formas de executar tarefas.
+O **LunarX Agent** é um sistema de inteligência artificial desenvolvido pela **LunarX Studios** para tornar diferentes modelos de IA mais organizados, especializados e preparados para trabalhar em tarefas e projetos reais.
 
-A ideia é simples:
+Em vez de depender apenas do comportamento padrão do modelo utilizado, o LunarX adiciona uma estrutura própria formada por **Skills especializadas, gerenciamento de contexto, organização de trabalho, validação e execução orientada a objetivos**.
+
+## A ideia é simples
 
 Você continua utilizando a inteligência artificial que preferir.
 
-O LunarX ajuda ela a trabalhar melhor.
+**O LunarX ajuda ela a trabalhar melhor.**
 
-## Um agente, centenas de habilidades:
+---
 
-O LunarX Agent V4 possui um sistema com centenas de Skills independentes.
+## Centenas de Skills especializadas
 
-Cada Skill representa uma habilidade especializada que pode ser utilizada quando uma tarefa realmente precisa dela.
+O LunarX Agent V4 possui uma biblioteca com centenas de Skills independentes.
 
-Entre elas estão capacidades voltadas para:
+Cada Skill representa uma capacidade especializada que pode ser utilizada quando realmente faz diferença para a tarefa.
 
-• Programação e desenvolvimento de software
-• Correção e evolução de projetos
-• Criação de aplicativos e sistemas
-• Desenvolvimento web
-• Jogos e experiências interativas
-• Android, iOS e aplicações desktop
-• Bancos de dados e APIs
-• Segurança e proteção de sistemas
-• Testes e validação
-• Arquitetura de software
-• Inteligência artificial e agentes
-• Pesquisa e análise
-• Documentos, apresentações e planilhas
-• Design e interfaces
-• Automação
-• Dados e estatística
-• Infraestrutura e DevOps
-• Organização de projetos
-• Recuperação de contexto
-• E muitas outras áreas
+Entre elas estão habilidades voltadas para:
 
-O agente não precisa carregar todas essas habilidades ao mesmo tempo.
+* Programação e desenvolvimento de software
+* Correção e evolução de projetos
+* Criação de aplicativos e sistemas
+* Desenvolvimento web
+* Jogos e experiências interativas
+* Android, iOS e aplicações desktop
+* Bancos de dados e APIs
+* Segurança
+* Testes e validação
+* Arquitetura de software
+* Inteligência artificial e agentes
+* Pesquisa e análise
+* Documentos, apresentações e planilhas
+* Design e interfaces
+* Automação
+* Dados e estatística
+* Infraestrutura e DevOps
+* Organização de projetos
+* Recuperação de contexto
+* E muitas outras áreas
 
-Ele analisa o pedido, entende o objetivo e escolhe apenas as Skills necessárias para realizar aquele trabalho.
+Ter centenas de Skills não significa carregar todas ao mesmo tempo.
 
-## Skills escolhidas automaticamente:
+O LunarX analisa aquilo que você pediu, entende o objetivo e escolhe apenas as habilidades que realmente podem contribuir para aquele trabalho.
 
-Você não precisa conhecer o nome das Skills para utilizar o LunarX.
+---
 
-Se você pedir para corrigir um aplicativo, ele pode selecionar habilidades relacionadas a correção, programação, testes e segurança.
+## Skills escolhidas automaticamente
 
-Se pedir uma pesquisa, poderá utilizar habilidades voltadas para pesquisa, análise e verificação de fontes.
+Você não precisa decorar nomes, comandos ou categorias.
+
+Basta pedir aquilo que precisa normalmente.
+
+Se você solicitar a correção de um aplicativo, o LunarX pode utilizar habilidades relacionadas a programação, correção, testes e segurança.
+
+Se pedir uma pesquisa, pode selecionar Skills especializadas em busca, análise e verificação de informações.
 
 Se estiver apenas conversando, ele continua respondendo naturalmente.
 
-As Skills existem para ajudar o agente quando são necessárias, sem transformar cada conversa em um processo complicado.
+As Skills trabalham nos bastidores para tornar o agente mais preparado sem transformar cada conversa em um processo complicado.
 
-## Feito para trabalhar de verdade:
+---
 
-O LunarX Agent não foi criado apenas para responder perguntas.
+## Criado para trabalhar em projetos
 
-Ele foi desenvolvido para acompanhar projetos.
+O LunarX Agent não foi desenvolvido apenas para responder perguntas.
 
-Dependendo das ferramentas disponíveis para a inteligência artificial utilizada, ele pode analisar arquivos, modificar projetos, criar artefatos, corrigir problemas, comparar versões, organizar estruturas, validar resultados e continuar trabalhos iniciados anteriormente.
+Ele foi criado para **trabalhar**.
 
-Quando o usuário pede uma entrega completa, o objetivo do agente é tentar realmente concluir aquilo que foi solicitado.
+Dependendo das ferramentas disponibilizadas pela inteligência artificial utilizada, ele pode:
 
-Se uma tentativa falhar, o LunarX procura outras formas legítimas de continuar antes de considerar uma tarefa bloqueada.
+* analisar arquivos;
+* criar e modificar projetos;
+* corrigir problemas;
+* comparar versões;
+* desenvolver aplicações;
+* organizar estruturas;
+* criar artefatos;
+* pesquisar informações;
+* trabalhar com código;
+* validar resultados;
+* recuperar trabalhos anteriores;
+* continuar projetos longos.
 
-## Qualidade antes da entrega:
+Quando você pede uma entrega completa, o objetivo do LunarX é realmente tentar concluí-la.
 
-Antes de entregar um resultado, o LunarX utiliza um sistema interno de verificação para procurar erros, requisitos esquecidos, inconsistências e problemas que ainda possam ser corrigidos.
+Se uma abordagem falhar, o agente procura outras formas legítimas de continuar antes de considerar o trabalho realmente bloqueado.
 
-Esse processo acontece silenciosamente.
+Uma tentativa que falhou não significa automaticamente que a tarefa acabou.
 
-O agente não precisa interromper a conversa para explicar cada verificação que está realizando.
+---
 
-Ele simplesmente trabalha para entregar o melhor resultado possível utilizando o modelo e as ferramentas disponíveis.
+## Qualidade antes da entrega
 
-Isso também ajuda modelos de inteligência artificial mais simples a seguirem uma estrutura de trabalho mais organizada.
+O LunarX possui um sistema interno de verificação que analisa o trabalho antes da resposta final.
 
-## Contexto que acompanha o projeto:
+Ele procura requisitos esquecidos, erros, inconsistências, problemas de estrutura e outras falhas que ainda possam ser corrigidas.
 
-Projetos grandes podem ultrapassar uma única conversa.
+Quando existem ferramentas capazes de verificar algo de forma objetiva, como testes, validação de arquivos, compilação, schemas ou outras verificações técnicas, o agente pode utilizá-las antes da entrega.
 
-Por isso, o LunarX possui um sistema próprio de checkpoints de contexto.
+Tudo isso acontece silenciosamente.
 
-Durante trabalhos importantes, ele pode criar arquivos JSON contendo o estado necessário para continuar o projeto posteriormente, incluindo decisões, arquivos importantes, versões, problemas conhecidos, alterações realizadas, validações e próximos passos.
+Você não precisa receber uma explicação de cada etapa interna ou acompanhar mensagens técnicas desnecessárias.
 
-Esses checkpoints são desenvolvidos para funcionar como uma forma de recuperação.
+O LunarX simplesmente utiliza essa estrutura para tentar entregar um resultado melhor.
 
-Se uma conversa terminar ou atingir seu limite, outro contexto compatível pode utilizar o checkpoint para entender o projeto e continuar o trabalho sem depender apenas de um resumo superficial.
+Isso também ajuda modelos de inteligência artificial mais simples a seguirem processos de trabalho mais organizados.
 
-## Inteligência sem desperdício:
+---
 
-Ter centenas de Skills não significa carregar centenas de arquivos em toda mensagem.
+## Contexto para projetos longos
 
-O LunarX utiliza carregamento progressivo.
+Nem todo projeto cabe em uma única conversa.
 
-Primeiro, ele conhece um registro compacto das habilidades disponíveis.
+Por isso, o LunarX possui um sistema próprio de **checkpoints de contexto**.
 
-Depois identifica quais parecem relevantes.
+Durante trabalhos importantes, o agente pode registrar em arquivos JSON informações necessárias para continuar o projeto posteriormente, como:
 
-Somente então carrega completamente as Skills escolhidas e, quando realmente necessário, seus testes, referências, exemplos ou outros recursos.
+* objetivo atual;
+* requisitos importantes;
+* decisões tomadas;
+* arquivos e versões;
+* estrutura do projeto;
+* alterações realizadas;
+* problemas conhecidos;
+* tentativas anteriores;
+* validações;
+* pendências;
+* próximos passos.
 
-Isso permite economizar contexto sem remover informações importantes para realizar o trabalho corretamente.
+O objetivo não é gerar apenas um resumo curto da conversa.
 
-## Três formas de utilizar o LunarX:
+O checkpoint funciona como um **estado de recuperação do projeto**.
 
-O LunarX Agent V4 está disponível em três versões diferentes.
+Assim, quando uma conversa precisar terminar ou atingir seu limite, outro contexto compatível pode utilizar esse arquivo para entender o que estava acontecendo e continuar o trabalho com muito menos perda de informação.
 
-### LunarX Agent
+---
 
-A versão tradicional e principal.
+## Mais inteligência, menos desperdício de contexto
 
-Criada para utilização com inteligências artificiais de chat e ambientes capazes de receber arquivos e trabalhar com projetos.
+Uma biblioteca enorme de Skills só é realmente útil quando pode ser utilizada de maneira eficiente.
 
-Ela utiliza a biblioteca geral de Skills do LunarX e pode ajudar em uma grande variedade de tarefas.
+Por isso, o LunarX utiliza **carregamento progressivo**.
 
-É a versão indicada para quem procura a experiência completa e tradicional do agente.
+Primeiro, o agente conhece um registro compacto das habilidades disponíveis.
 
-### LunarX Agent Workspace
+Depois identifica quais parecem relevantes para a tarefa.
 
-Criada para inteligências artificiais que trabalham diretamente dentro de um ambiente de desenvolvimento ou workspace.
+Somente então as Skills escolhidas são carregadas completamente.
 
-Depois de configurada, a IA carrega o LunarX a partir de uma pasta instalada no computador e pode trabalhar diretamente nos arquivos do projeto atual.
+Referências, testes, exemplos, scripts, schemas e outros recursos adicionais são utilizados apenas quando realmente necessários.
 
-A instalação mantém separadas as habilidades do agente, seus checkpoints e os projetos em desenvolvimento.
+Isso ajuda a economizar contexto sem remover informação importante para a qualidade do trabalho.
 
-Se você não quiser utilizar uma pasta pessoal como workspace, o próprio LunarX também possui uma área interna de projetos onde novos trabalhos podem ser criados e mantidos separadamente.
+---
 
-### LunarX Agent Estudos
+# Quatro formas de utilizar o LunarX
+
+O LunarX Agent V4 pode ser utilizado de diferentes maneiras dependendo do ambiente e do tipo de trabalho.
+
+## LunarX Agent
+
+A versão principal e tradicional.
+
+Criada para inteligências artificiais de chat e ambientes capazes de receber arquivos, analisar projetos e produzir artefatos.
+
+Ela utiliza a biblioteca geral de Skills do LunarX e foi desenvolvida para atender desde tarefas simples até projetos complexos.
+
+É a versão indicada para quem deseja utilizar o sistema completo em diferentes inteligências artificiais compatíveis.
+
+---
+
+## LunarX Agent Workspace
+
+Uma versão desenvolvida para inteligências artificiais que trabalham diretamente com arquivos, diretórios e ambientes de desenvolvimento.
+
+O LunarX é instalado em uma pasta própria no computador e a inteligência artificial recebe o caminho dessa instalação.
+
+A partir daí, ela pode carregar suas Skills, configurações e contexto diretamente dessa pasta.
+
+O projeto do usuário permanece separado da instalação do agente.
+
+O LunarX pode trabalhar diretamente no workspace já aberto pelo usuário ou, quando solicitado, utilizar sua própria área interna de projetos.
+
+Assim ficam separados:
+
+* arquivos internos do LunarX;
+* Skills;
+* checkpoints;
+* projetos do usuário;
+* arquivos produzidos durante o trabalho.
+
+Essa versão é especialmente útil para ambientes de programação e ferramentas de IA que possuem acesso direto ao filesystem.
+
+---
+
+## LunarX Agent Estudos
 
 Uma versão especializada em aprendizagem.
 
-O LunarX Agent Estudos possui uma biblioteca própria de Skills educacionais criadas para ensinar, explicar, praticar, revisar, avaliar dificuldades e acompanhar a evolução do estudante.
+O LunarX Agent Estudos possui uma biblioteca própria de Skills educacionais criadas para ajudar o estudante a:
 
-Ele pode adaptar explicações, criar exercícios, trabalhar com revisão, preparação para avaliações, programação, idiomas, matemática, ciências, humanas e diversas outras áreas.
+* aprender;
+* entender conceitos;
+* praticar;
+* revisar;
+* criar exercícios;
+* identificar dificuldades;
+* corrigir erros;
+* acompanhar evolução;
+* preparar avaliações;
+* organizar os estudos.
 
-Em vez de simplesmente entregar respostas, ele pode ajudar o estudante a realmente compreender aquilo que está aprendendo.
+Ele pode trabalhar com programação, idiomas, matemática, ciências, humanas, redação e diversas outras áreas.
 
-## A inteligência artificial continua sendo sua:
+A proposta não é apenas entregar uma resposta pronta.
+
+É ajudar o estudante a **entender, praticar e evoluir**.
+
+---
+
+## LunarX Agent GPTs
+
+Para quem utiliza o ChatGPT, o LunarX também possui uma versão disponível diretamente como **GPT**.
+
+Ela permite utilizar o LunarX sem precisar configurar manualmente toda a estrutura inicial.
+
+Basta abrir o LunarX Agent dentro do ChatGPT e começar a conversar.
+
+A versão GPT mantém a proposta principal do projeto: utilizar Skills especializadas, organização de tarefas, continuidade de contexto e uma estrutura de trabalho preparada para diferentes tipos de pedidos.
+
+É a maneira mais rápida de experimentar o LunarX diretamente no ecossistema do ChatGPT.
+
+---
+
+## Você escolhe onde utilizar
+
+O LunarX não existe para prender o usuário a apenas uma plataforma.
+
+A proposta é justamente permitir que a estrutura do agente acompanhe diferentes formas de utilizar inteligência artificial.
+
+Você pode utilizar:
+
+**Agent**, para a experiência tradicional.
+
+**Workspace**, para trabalhar diretamente com arquivos e projetos no computador.
+
+**Estudos**, para aprendizagem e acompanhamento educacional.
+
+**GPTs**, para utilizar o LunarX diretamente dentro do ChatGPT.
+
+Cada versão foi preparada para uma forma diferente de trabalho, mas todas compartilham a mesma ideia:
+
+**dar mais estrutura para a inteligência artificial fazer um trabalho melhor.**
+
+---
+
+## A inteligência artificial continua sendo sua
 
 O LunarX não substitui o modelo de inteligência artificial utilizado.
 
-Ele fornece uma estrutura para ajudá-lo a trabalhar.
+Ele adiciona uma estrutura ao redor dele.
 
 Modelos mais avançados podem aproveitar essa estrutura para produzir resultados ainda mais completos.
 
-Modelos mais simples passam a contar com procedimentos, Skills, organização, recuperação de contexto e verificações que ajudam a reduzir erros evitáveis.
+Modelos mais simples passam a contar com Skills, procedimentos, organização, gerenciamento de contexto e mecanismos de validação que ajudam a reduzir erros evitáveis.
 
-A capacidade final ainda depende da inteligência artificial e das ferramentas disponíveis.
+A capacidade final ainda depende da inteligência artificial, das ferramentas disponíveis e das limitações do ambiente.
 
 Mas o objetivo permanece o mesmo:
 
-Fazer o melhor trabalho possível com aquilo que estiver disponível.
+**fazer o melhor trabalho possível com aquilo que estiver disponível.**
 
-## Um agente que evolui junto com seus projetos:
+---
 
-O LunarX Agent foi desenvolvido para ser modular.
+## Um agente criado para evoluir
+
+O LunarX foi desenvolvido de forma modular.
 
 Novas Skills podem ser adicionadas.
 
 Skills existentes podem evoluir.
 
-Novas formas de trabalhar podem ser incorporadas sem transformar todo o agente em um único prompt gigantesco.
+Novas especializações podem surgir.
 
-Isso permite que o sistema continue crescendo enquanto mantém suas habilidades organizadas e independentes.
+Novas formas de utilizar o agente podem ser incorporadas.
 
-Crie.
+E tudo isso pode acontecer sem transformar o LunarX em um único prompt gigantesco e impossível de organizar.
 
+A estrutura modular permite que o sistema continue crescendo enquanto mantém suas capacidades separadas e carregadas somente quando necessárias.
+
+**Crie.
 Pesquise.
-
 Analise.
-
 Corrija.
-
 Estude.
-
 Desenvolva.
-
-Continue seus projetos.
+Continue seus projetos.**
 
 E deixe o LunarX escolher as habilidades necessárias para ajudar em cada etapa.
 
-**LunarX Agent — uma inteligência artificial preparada para trabalhar com você.**
+# LunarX Agent
 
-### Créditos
+**Uma inteligência artificial preparada para trabalhar com você.**
 
-LunarX Agent foi criado e desenvolvido pela LunarX Studios.
+## Créditos
+
+LunarX Agent foi criado e desenvolvido pela **LunarX Studios**.
 
 © 2026 LunarX Studios
 Todos os direitos reservados.
