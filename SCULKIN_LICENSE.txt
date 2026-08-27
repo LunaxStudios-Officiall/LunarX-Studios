@@ -1,0 +1,436 @@
+SCULKIN — ALL RIGHTS RESERVED LICENSE
+Sculkin Proprietary License v1.0
+Copyright © 2026 LunarX Studios. All Rights Reserved.
+
+======================================================================
+ENGLISH
+======================================================================
+
+IMPORTANT
+
+Sculkin is proprietary software and Minecraft mod content distributed under
+an All Rights Reserved model.
+
+This is NOT an open-source license. Except for the limited permissions
+expressly granted below, no permission is granted to copy, redistribute,
+reupload, modify, sublicense, sell, mirror, republish, extract, or create
+derivative works from Sculkin.
+
+By downloading, installing, or using Sculkin, you agree to these terms.
+
+1. PERSONAL USE
+
+You may:
+
+a) download an official release of Sculkin from an authorized distribution
+   channel;
+b) install and use the unmodified official release with a legitimate copy of
+   Minecraft;
+c) use Sculkin for personal, non-commercial gameplay;
+d) make a private backup copy solely for your own use.
+
+No ownership or intellectual-property rights are transferred to you.
+
+2. REDISTRIBUTION
+
+Without prior written permission from LunarX Studios, you may not:
+
+a) reupload or redistribute Sculkin or its .jar files;
+b) mirror Sculkin on another website, file host, repository, launcher,
+   application, store, social platform, or distribution service;
+c) provide modified or unmodified copies to third parties as a separate
+   downloadable file;
+d) sell, rent, sublicense, bundle for resale, or otherwise commercially
+   redistribute Sculkin;
+e) claim an unofficial copy or distribution as an official LunarX Studios
+   release.
+
+Users should obtain Sculkin through the official distribution channels
+identified by LunarX Studios.
+
+3. CURSEFORGE AND MODPACKS
+
+Sculkin may be referenced in CurseForge-hosted modpacks through CurseForge's
+official manifest, dependency, or project-reference systems when those systems
+retrieve the original official Sculkin project file.
+
+This permission does NOT authorize:
+
+a) reuploading the Sculkin .jar as an independently hosted file;
+b) placing the Sculkin .jar in a third-party download package or mirror when
+   doing so bypasses the official project distribution;
+c) distributing modified Sculkin builds;
+d) using Sculkin in a manner that conflicts with the project's current
+   CurseForge distribution settings.
+
+Any broader modpack, launcher, or third-party distribution permission requires
+prior written authorization from LunarX Studios.
+
+4. MODIFICATION AND DERIVATIVE WORKS
+
+Without prior written permission from LunarX Studios, you may not distribute:
+
+a) modified versions of Sculkin;
+b) forks;
+c) ports not released or authorized by LunarX Studios;
+d) remakes, adaptations, or derivative mods that copy protected Sculkin
+   source code, assets, text, artwork, animations, sounds, internal data, or
+   other original protected material.
+
+Private local experimentation does not grant any right to publish or
+redistribute the result.
+
+5. SOURCE CODE, ASSETS, AND CONTENT
+
+Unless a specific third-party component is governed by a separate license,
+you may not extract, copy, republish, redistribute, or reuse original Sculkin
+materials, including but not limited to:
+
+- source code;
+- compiled original mod code;
+- textures;
+- models;
+- animations;
+- icons;
+- artwork;
+- sounds;
+- localization text;
+- in-game manual content;
+- original written descriptions and narrative content;
+- original data files;
+- logos and branding;
+- other original project materials.
+
+Technical access to a file does not constitute permission to reuse it.
+
+6. VIDEOS, SCREENSHOTS, STREAMS, AND REVIEWS
+
+You may create and publish ordinary gameplay videos, screenshots, livestreams,
+reviews, tutorials, and other commentary showing Sculkin in use, provided that:
+
+a) the material does not falsely claim to be an official LunarX Studios
+   publication;
+b) it does not redistribute the mod itself or substantial extracted project
+   files;
+c) it complies with applicable Minecraft/Mojang/Microsoft rules and platform
+   rules.
+
+This section does not grant ownership of Sculkin assets or branding.
+
+7. COMMERCIAL USE
+
+This license does not grant permission to sell Sculkin, sell access to Sculkin,
+license it to third parties, distribute paid copies, or incorporate protected
+Sculkin materials into another commercial product.
+
+Ordinary monetization of gameplay videos or livestreams is not prohibited by
+this license when otherwise allowed by the applicable Minecraft, platform, and
+copyright rules.
+
+8. CREDIT AND AUTHORSHIP
+
+Existing copyright, license, authorship, and credit notices must not be removed,
+obscured, or misrepresented.
+
+Sculkin was created and developed by LunarX Studios.
+
+No person may present an unauthorized copy, fork, port, derivative work, or
+redistribution as an official LunarX Studios product.
+
+9. TRADEMARKS AND BRANDING
+
+This license does not grant rights to use the LunarX Studios or Sculkin names,
+logos, visual identity, trademarks, or other distinctive branding except for
+truthful nominative reference to the original mod.
+
+Unauthorized products or distributions may not be presented as official,
+approved, sponsored, or endorsed by LunarX Studios.
+
+10. MINECRAFT, MOJANG, AND MICROSOFT
+
+Sculkin is an independent Minecraft mod.
+
+Minecraft, Mojang, Microsoft, and their respective names, trademarks, assets,
+and intellectual property belong to their respective owners.
+
+Sculkin is not an official Minecraft product and is not approved by, sponsored
+by, or affiliated with Mojang or Microsoft unless explicitly stated otherwise
+by the applicable rights holder.
+
+This license applies only to rights that LunarX Studios or the applicable
+Sculkin rights holders are legally able to license. It does not grant rights
+over Minecraft or third-party materials.
+
+11. THIRD-PARTY COMPONENTS
+
+Libraries, loaders, APIs, tools, assets, or other third-party components used by
+Sculkin remain subject to their own licenses and terms.
+
+Where a third-party license applies to a specific component, that license
+controls that component.
+
+12. LEGALLY REQUIRED EXCEPTIONS
+
+Nothing in this license is intended to remove rights, exceptions, or limitations
+that applicable law makes mandatory and non-waivable.
+
+13. TERMINATION
+
+The permissions granted by this license terminate automatically if you violate
+its terms.
+
+Termination does not erase liability for earlier unauthorized acts.
+
+14. GOVERNING LAW
+
+This license is intended to be interpreted under Brazilian law, without
+excluding mandatory rules that apply in a particular case.
+
+15. SPECIAL PERMISSION
+
+Any permission to redistribute, modify for distribution, port, mirror, bundle,
+commercialize, sublicense, or otherwise use Sculkin beyond the permissions
+expressly granted here requires separate prior written authorization from
+LunarX Studios or the applicable rights holder.
+
+16. NON-BINDING SUMMARY
+
+ALLOWED:
+- download official releases;
+- install and play Sculkin personally;
+- keep a private backup;
+- create ordinary gameplay videos, screenshots, streams, reviews, and tutorials;
+- reference the official CurseForge Sculkin project through CurseForge-supported
+  modpack manifest/dependency mechanisms.
+
+NOT ALLOWED WITHOUT PERMISSION:
+- reupload or mirror the .jar;
+- redistribute Sculkin as a separate file;
+- distribute modified versions;
+- publish forks or unauthorized ports;
+- reuse protected source code or assets;
+- sell the mod or paid copies;
+- remove or falsify credits;
+- present unofficial versions as official LunarX Studios releases.
+
+If this summary conflicts with the full license, the full license controls.
+
+
+======================================================================
+PORTUGUÊS — BRASIL
+======================================================================
+
+IMPORTANTE
+
+Sculkin é um software proprietário e conteúdo de mod para Minecraft distribuído
+sob o modelo Todos os Direitos Reservados (All Rights Reserved).
+
+Esta NÃO é uma licença open source. Fora das permissões limitadas expressamente
+concedidas abaixo, não é concedida autorização para copiar, redistribuir,
+republicar, modificar, sublicenciar, vender, espelhar, extrair ou criar obras
+derivadas do Sculkin.
+
+Ao baixar, instalar ou utilizar Sculkin, você concorda com estes termos.
+
+1. USO PESSOAL
+
+Você pode:
+
+a) baixar uma versão oficial do Sculkin por um canal de distribuição autorizado;
+b) instalar e utilizar a versão oficial não modificada com uma cópia legítima
+   do Minecraft;
+c) utilizar Sculkin para jogo pessoal e não comercial;
+d) manter uma cópia privada de segurança exclusivamente para seu próprio uso.
+
+Nenhum direito de propriedade intelectual é transferido ao usuário.
+
+2. REDISTRIBUIÇÃO
+
+Sem autorização prévia e escrita da LunarX Studios, você não pode:
+
+a) reenviar ou redistribuir Sculkin ou seus arquivos .jar;
+b) espelhar Sculkin em outro site, hospedagem, repositório, launcher, aplicativo,
+   loja, plataforma social ou serviço de distribuição;
+c) fornecer cópias modificadas ou não modificadas a terceiros como arquivo
+   separado para download;
+d) vender, alugar, sublicenciar, incluir em pacote para revenda ou explorar
+   comercialmente a redistribuição do Sculkin;
+e) apresentar uma cópia ou distribuição não oficial como lançamento oficial
+   da LunarX Studios.
+
+Os usuários devem obter Sculkin pelos canais oficiais indicados pela
+LunarX Studios.
+
+3. CURSEFORGE E MODPACKS
+
+Sculkin pode ser referenciado em modpacks hospedados no CurseForge por meio dos
+sistemas oficiais de manifesto, dependência ou referência de projeto do
+CurseForge, quando esses sistemas obtenham o arquivo original do projeto
+oficial do Sculkin.
+
+Essa permissão NÃO autoriza:
+
+a) reupar o arquivo .jar do Sculkin como arquivo hospedado independentemente;
+b) colocar o .jar do Sculkin em pacote de download ou espelho de terceiro quando
+   isso contornar a distribuição oficial do projeto;
+c) distribuir builds modificadas do Sculkin;
+d) utilizar Sculkin de maneira incompatível com as configurações atuais de
+   distribuição do projeto no CurseForge.
+
+Qualquer permissão mais ampla para modpack, launcher ou distribuição de terceiro
+exige autorização prévia e escrita da LunarX Studios.
+
+4. MODIFICAÇÕES E OBRAS DERIVADAS
+
+Sem autorização prévia e escrita da LunarX Studios, você não pode distribuir:
+
+a) versões modificadas do Sculkin;
+b) forks;
+c) ports não lançados ou autorizados pela LunarX Studios;
+d) remakes, adaptações ou mods derivados que copiem código-fonte, assets,
+   textos, artes, animações, sons, dados internos ou outros materiais originais
+   protegidos do Sculkin.
+
+Experimentações privadas e locais não concedem direito de publicar ou
+redistribuir o resultado.
+
+5. CÓDIGO-FONTE, ASSETS E CONTEÚDO
+
+Salvo quando determinado componente de terceiro estiver sujeito a licença
+própria, não é permitido extrair, copiar, republicar, redistribuir ou reutilizar
+materiais originais do Sculkin, incluindo, sem limitação:
+
+- código-fonte;
+- código original compilado do mod;
+- texturas;
+- modelos;
+- animações;
+- ícones;
+- artes;
+- sons;
+- textos de localização;
+- conteúdo do manual dentro do jogo;
+- descrições e conteúdo narrativo originais;
+- arquivos de dados originais;
+- logos e identidade visual;
+- outros materiais originais do projeto.
+
+A possibilidade técnica de acessar um arquivo não constitui autorização para
+reutilizá-lo.
+
+6. VÍDEOS, CAPTURAS, STREAMS E REVIEWS
+
+Você pode criar e publicar vídeos normais de gameplay, capturas de tela,
+transmissões ao vivo, reviews, tutoriais e outros comentários mostrando Sculkin
+em uso, desde que:
+
+a) o material não seja apresentado falsamente como publicação oficial da
+   LunarX Studios;
+b) não redistribua o próprio mod nem arquivos substanciais extraídos do projeto;
+c) respeite as regras aplicáveis do Minecraft/Mojang/Microsoft e da plataforma
+   utilizada.
+
+Esta seção não concede propriedade sobre assets ou identidade do Sculkin.
+
+7. USO COMERCIAL
+
+Esta licença não concede autorização para vender Sculkin, vender acesso ao
+Sculkin, licenciá-lo a terceiros, distribuir cópias pagas ou incorporar
+materiais protegidos do Sculkin em outro produto comercial.
+
+A monetização comum de vídeos de gameplay ou transmissões ao vivo não é
+proibida por esta licença quando permitida pelas regras aplicáveis do Minecraft,
+da plataforma e dos direitos autorais.
+
+8. CRÉDITOS E AUTORIA
+
+Avisos existentes de copyright, licença, autoria e créditos não podem ser
+removidos, ocultados ou apresentados de forma enganosa.
+
+Sculkin foi criado e desenvolvido pela LunarX Studios.
+
+Nenhuma pessoa pode apresentar uma cópia, fork, port, derivado ou redistribuição
+não autorizada como produto oficial da LunarX Studios.
+
+9. MARCAS E IDENTIDADE
+
+Esta licença não concede direitos de uso dos nomes LunarX Studios ou Sculkin,
+logos, identidade visual, marcas ou outros sinais distintivos, exceto para
+referência textual verdadeira ao mod original.
+
+Produtos ou distribuições não autorizados não podem ser apresentados como
+oficiais, aprovados, patrocinados ou endossados pela LunarX Studios.
+
+10. MINECRAFT, MOJANG E MICROSOFT
+
+Sculkin é um mod independente para Minecraft.
+
+Minecraft, Mojang, Microsoft e seus respectivos nomes, marcas, assets e
+propriedade intelectual pertencem aos seus respectivos titulares.
+
+Sculkin não é um produto oficial do Minecraft e não é aprovado, patrocinado ou
+afiliado à Mojang ou Microsoft, salvo declaração expressa em sentido contrário
+pelo respectivo titular.
+
+Esta licença se aplica somente aos direitos que a LunarX Studios ou os titulares
+aplicáveis do Sculkin possam legalmente licenciar. Ela não concede direitos
+sobre Minecraft ou materiais de terceiros.
+
+11. COMPONENTES DE TERCEIROS
+
+Bibliotecas, loaders, APIs, ferramentas, assets ou outros componentes de
+terceiros utilizados pelo Sculkin permanecem sujeitos às suas próprias
+licenças e termos.
+
+Quando uma licença de terceiro for aplicável a um componente específico, ela
+prevalece sobre aquele componente.
+
+12. EXCEÇÕES LEGAIS OBRIGATÓRIAS
+
+Nada nesta licença pretende eliminar direitos, exceções ou limitações que a
+legislação aplicável determine como obrigatórios e irrenunciáveis.
+
+13. ENCERRAMENTO
+
+As permissões concedidas por esta licença terminam automaticamente se seus
+termos forem violados.
+
+O encerramento não elimina responsabilidades decorrentes de atos não autorizados
+anteriores.
+
+14. LEGISLAÇÃO APLICÁVEL
+
+Esta licença pretende ser interpretada de acordo com a legislação brasileira,
+sem excluir normas obrigatórias aplicáveis ao caso concreto.
+
+15. AUTORIZAÇÃO ESPECIAL
+
+Qualquer permissão para redistribuir, modificar para distribuição, portar,
+espelhar, empacotar, comercializar, sublicenciar ou utilizar Sculkin além das
+permissões expressamente concedidas aqui exige autorização prévia e escrita da
+LunarX Studios ou do titular de direitos aplicável.
+
+16. RESUMO NÃO VINCULANTE
+
+PERMITIDO:
+- baixar versões oficiais;
+- instalar e jogar Sculkin pessoalmente;
+- manter backup privado;
+- criar vídeos normais de gameplay, screenshots, streams, reviews e tutoriais;
+- referenciar o projeto oficial do Sculkin no CurseForge através dos mecanismos
+  de manifesto/dependência de modpacks suportados pelo CurseForge.
+
+NÃO PERMITIDO SEM AUTORIZAÇÃO:
+- reupar ou espelhar o .jar;
+- redistribuir Sculkin como arquivo separado;
+- distribuir versões modificadas;
+- publicar forks ou ports não autorizados;
+- reutilizar código-fonte ou assets protegidos;
+- vender o mod ou cópias pagas;
+- remover ou falsificar créditos;
+- apresentar versões não oficiais como lançamentos oficiais da LunarX Studios.
+
+Caso este resumo entre em conflito com o texto integral da licença, prevalece o
+texto integral.
+
+FIM DA LICENÇA
