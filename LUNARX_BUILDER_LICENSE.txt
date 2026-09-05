@@ -1,0 +1,525 @@
+LUNARX BUILDER — PROPRIETARY SOFTWARE LICENSE
+LunarX Builder Proprietary License v1.0
+Applies to LunarX Builder 2.0.0 and later releases that expressly reference this license.
+
+Copyright © 2026 LunarX Studios and/or the applicable rights holder(s).
+All rights reserved.
+
+======================================================================
+ENGLISH
+======================================================================
+
+IMPORTANT
+
+LunarX Builder is proprietary software distributed free of charge for authorized
+use. It is NOT open-source software.
+
+This license allows users to install and use LunarX Builder, including for their
+own commercial projects, while protecting the LunarX Builder application,
+source code, interface, internal logic, assets, documentation, packaging, and
+other original project materials from unauthorized redistribution,
+republication, modification for distribution, or resale.
+
+By downloading, installing, or using LunarX Builder, you agree to these terms.
+
+1. GRANT OF LICENSE
+
+Subject to this license, you are granted a limited, non-exclusive,
+non-transferable, non-sublicensable license to:
+
+a) download LunarX Builder from an official distribution channel;
+b) install and run LunarX Builder on devices you own or are authorized to use;
+c) use LunarX Builder for personal, educational, professional, or commercial
+   development work;
+d) use LunarX Builder to analyze projects you own or are authorized to process;
+e) create Build Plans and build outputs for projects you own or are authorized
+   to build;
+f) distribute or commercialize your own resulting applications and build
+   outputs, provided you have all rights required for the project and any
+   third-party components included in those outputs;
+g) maintain a reasonable private backup copy of the official installer solely
+   for your own use.
+
+No ownership of LunarX Builder itself is transferred to you.
+
+2. USER PROJECTS AND OUTPUT OWNERSHIP
+
+LunarX Builder does not claim ownership of projects supplied by the user.
+
+To the extent permitted by applicable law and subject to third-party rights:
+
+a) your pre-existing project files remain yours or remain owned by their
+   respective rights holders;
+b) your original source code, assets, content, configuration, and data remain
+   yours or remain owned by their respective rights holders;
+c) LunarX Studios does not obtain ownership of your project merely because it
+   was analyzed or built with LunarX Builder;
+d) Build Plans and generated build outputs do not become property of LunarX
+   Studios merely because LunarX Builder created or assisted in creating them;
+e) you may use, publish, sell, license, or distribute your own resulting
+   project outputs if you otherwise have the legal right to do so.
+
+This section does not transfer to you any rights in LunarX Builder itself or in
+third-party components that may be included in an output.
+
+3. RESPONSIBILITY FOR PROJECT RIGHTS
+
+You are responsible for ensuring that you have the rights and permissions
+necessary to analyze, build, package, modify, publish, or distribute the
+projects you provide to LunarX Builder.
+
+LunarX Builder does not grant additional rights over:
+
+- third-party source code;
+- frameworks;
+- libraries;
+- fonts;
+- images;
+- audio;
+- video;
+- models;
+- datasets;
+- trademarks;
+- APIs;
+- SDKs;
+- runtimes;
+- package managers;
+- build tools;
+- operating-system components;
+- or other materials owned by third parties.
+
+The license obligations of those components continue to apply independently.
+
+4. REDISTRIBUTION OF LUNARX BUILDER
+
+Without prior written permission from LunarX Studios or the applicable rights
+holder, you may not:
+
+a) reupload, mirror, republish, or redistribute LunarX Builder or its installer;
+b) host copies on other websites, repositories, file-sharing services, stores,
+   launchers, package managers, or download platforms;
+c) include LunarX Builder in another software bundle, installer, collection, or
+   commercial package;
+d) sell, rent, lease, sublicense, or charge for copies of LunarX Builder;
+e) provide modified or unmodified copies to third parties outside an expressly
+   authorized distribution channel.
+
+Users should obtain LunarX Builder through official LunarX Studios distribution
+links.
+
+5. MODIFICATION AND DERIVATIVE DISTRIBUTION
+
+Without prior written permission, you may not distribute:
+
+a) modified versions of LunarX Builder;
+b) forks or unofficial editions;
+c) ports or repackaged builds;
+d) derivative products substantially based on protected LunarX Builder code,
+   assets, interface materials, or internal implementation;
+e) versions with removed or altered copyright, license, attribution, or
+   branding notices.
+
+Private local changes do not create a right to publish or redistribute a
+modified version.
+
+6. REVERSE ENGINEERING AND EXTRACTION
+
+To the maximum extent permitted by applicable law, you may not reverse engineer,
+decompile, disassemble, extract, scrape, or otherwise analyze LunarX Builder for
+the purpose of:
+
+a) copying or reproducing protected implementation;
+b) creating an unauthorized clone or substitute;
+c) bypassing technical protections;
+d) extracting protected assets or code for reuse;
+e) enabling unauthorized redistribution.
+
+Nothing in this section overrides mandatory, non-waivable exceptions under
+applicable law.
+
+7. BRANDING AND IDENTITY
+
+This license does not grant rights to use the LunarX Studios or LunarX Builder
+names, logos, visual identity, trademarks, trade dress, or other distinctive
+branding except as reasonably necessary to truthfully identify the original
+software.
+
+No unofficial product, distribution, fork, service, or website may be presented
+as official, approved, sponsored, or endorsed by LunarX Studios.
+
+8. THIRD-PARTY COMPONENTS
+
+LunarX Builder is built with or may interact with third-party technologies,
+including an Electron-based runtime and development/build tooling.
+
+Third-party components remain subject to their own licenses and notices.
+
+This proprietary license applies only to original LunarX Builder materials that
+LunarX Studios or the applicable rights holder has the legal right to license.
+
+Where a third-party license applies to a specific component, that third-party
+license controls that component.
+
+Nothing in this license converts third-party open-source software into
+proprietary LunarX software.
+
+9. GENERATED OUTPUTS AND THIRD-PARTY RUNTIMES
+
+A build generated or planned by LunarX Builder may include or depend on
+third-party runtimes, frameworks, libraries, SDKs, build tools, or other
+components.
+
+Your right to distribute a generated output depends on the licenses and terms
+applicable to your own project and all third-party components included in or
+required by that output.
+
+LunarX Builder's license does not replace those third-party obligations.
+
+10. NO GUARANTEE OF LEGAL OR PLATFORM COMPLIANCE
+
+LunarX Builder is a development tool. It does not provide legal advice and does
+not guarantee that a user project or generated output complies with all
+licenses, store policies, code-signing requirements, privacy rules, security
+requirements, export rules, or other legal or platform obligations.
+
+Users remain responsible for reviewing the requirements applicable to their
+own projects and releases.
+
+11. SOFTWARE AVAILABILITY AND UPDATES
+
+LunarX Builder may receive updates, fixes, compatibility changes, or new
+versions.
+
+Future releases may reference an updated version of this license.
+
+LunarX Studios is not required by this license to provide perpetual support,
+updates, compatibility, or availability for any particular version.
+
+12. NO WARRANTY
+
+To the maximum extent permitted by applicable law, LunarX Builder is provided
+"AS IS" and "AS AVAILABLE", without warranties of uninterrupted operation,
+universal compatibility, error-free builds, successful packaging, platform
+acceptance, or fitness for a particular purpose.
+
+Nothing in this section excludes rights or liabilities that cannot lawfully be
+excluded.
+
+13. LIMITATION OF RIGHTS GRANTED
+
+All rights not expressly granted in this license are reserved.
+
+Access to the installer, application files, resources, or documentation does not
+itself grant permission to copy, redistribute, modify, sublicense, sell, or
+reuse protected LunarX Builder materials.
+
+14. TERMINATION
+
+The permissions granted by this license terminate automatically upon a material
+violation of these terms.
+
+Termination does not erase responsibility for earlier unauthorized acts.
+
+15. MANDATORY LEGAL EXCEPTIONS
+
+Nothing in this license is intended to remove rights, exceptions, limitations,
+or permissions that applicable law makes mandatory and non-waivable.
+
+16. GOVERNING LAW
+
+This license is intended to be interpreted under Brazilian law, without
+excluding mandatory rules that apply to a particular case.
+
+17. SPECIAL PERMISSIONS
+
+Any permission to redistribute LunarX Builder, publish modified versions,
+bundle it with another product, sublicense it, resell it, or otherwise use it
+beyond the permissions expressly granted here requires separate prior written
+authorization from LunarX Studios or the applicable rights holder.
+
+18. NON-BINDING SUMMARY
+
+ALLOWED:
+- download LunarX Builder from an official source;
+- install and use it personally or professionally;
+- use it for your own commercial development work;
+- analyze projects you own or are authorized to process;
+- create Build Plans and build outputs;
+- publish and sell your own resulting applications when you have the required
+  rights;
+- keep a private backup of the official installer.
+
+YOUR PROJECTS:
+- remain yours or remain owned by their existing rights holders;
+- do not become property of LunarX Studios merely because LunarX Builder
+  analyzes or builds them.
+
+NOT ALLOWED WITHOUT PERMISSION:
+- reupload or mirror LunarX Builder;
+- redistribute the installer;
+- sell copies of LunarX Builder;
+- distribute modified versions, forks, ports, or repackaged editions;
+- copy protected LunarX Builder code or assets into another product;
+- remove or falsify credits;
+- present unofficial versions as official LunarX Studios releases.
+
+If this summary conflicts with the full license, the full license controls.
+
+======================================================================
+PORTUGUÊS — BRASIL
+======================================================================
+
+IMPORTANTE
+
+LunarX Builder é um software proprietário distribuído gratuitamente para uso
+autorizado. Ele NÃO é um software open source.
+
+Esta licença permite instalar e utilizar o LunarX Builder, inclusive para
+projetos comerciais próprios, ao mesmo tempo em que protege o aplicativo
+LunarX Builder, seu código, interface, lógica interna, assets, documentação,
+empacotamento e demais materiais originais contra redistribuição, republicação,
+modificação para distribuição ou revenda não autorizadas.
+
+Ao baixar, instalar ou utilizar o LunarX Builder, você concorda com estes termos.
+
+1. CONCESSÃO DA LICENÇA
+
+Sujeito a esta licença, é concedido ao usuário um direito limitado, não
+exclusivo, não transferível e não sublicenciável para:
+
+a) baixar o LunarX Builder por um canal oficial de distribuição;
+b) instalar e executar o LunarX Builder em dispositivos próprios ou que esteja
+   autorizado a utilizar;
+c) utilizar o LunarX Builder em trabalhos pessoais, educacionais,
+   profissionais ou comerciais;
+d) utilizar o LunarX Builder para analisar projetos próprios ou projetos que
+   esteja autorizado a processar;
+e) criar Build Plans e resultados de build para projetos próprios ou que esteja
+   autorizado a compilar;
+f) distribuir ou comercializar seus próprios aplicativos e resultados de build,
+   desde que possua todos os direitos necessários sobre o projeto e sobre os
+   componentes de terceiros incluídos nesses resultados;
+g) manter uma cópia privada razoável do instalador oficial exclusivamente para
+   seu próprio uso.
+
+Nenhuma propriedade sobre o próprio LunarX Builder é transferida ao usuário.
+
+2. PROPRIEDADE DOS PROJETOS E RESULTADOS DO USUÁRIO
+
+O LunarX Builder não reivindica propriedade sobre os projetos fornecidos pelo
+usuário.
+
+Na medida permitida pela legislação aplicável e respeitados direitos de
+terceiros:
+
+a) os arquivos preexistentes do seu projeto continuam pertencendo a você ou aos
+   respectivos titulares;
+b) seu código-fonte original, assets, conteúdo, configurações e dados continuam
+   pertencendo a você ou aos respectivos titulares;
+c) a LunarX Studios não adquire propriedade sobre seu projeto simplesmente
+   porque ele foi analisado ou compilado com o LunarX Builder;
+d) Build Plans e resultados de build não se tornam propriedade da LunarX
+   Studios simplesmente porque o LunarX Builder os criou ou ajudou a criá-los;
+e) você pode utilizar, publicar, vender, licenciar ou distribuir os resultados
+   do seu próprio projeto quando possuir os direitos necessários para isso.
+
+Esta seção não transfere ao usuário direitos sobre o próprio LunarX Builder nem
+sobre componentes de terceiros eventualmente presentes em um resultado.
+
+3. RESPONSABILIDADE PELOS DIREITOS DO PROJETO
+
+O usuário é responsável por garantir que possui os direitos e permissões
+necessários para analisar, compilar, empacotar, modificar, publicar ou
+distribuir os projetos fornecidos ao LunarX Builder.
+
+O LunarX Builder não concede direitos adicionais sobre código, frameworks,
+bibliotecas, fontes, imagens, áudios, vídeos, modelos, datasets, marcas, APIs,
+SDKs, runtimes, gerenciadores de pacotes, ferramentas de build, componentes do
+sistema operacional ou outros materiais pertencentes a terceiros.
+
+As obrigações das licenças desses componentes continuam aplicáveis de forma
+independente.
+
+4. REDISTRIBUIÇÃO DO LUNARX BUILDER
+
+Sem autorização prévia e escrita da LunarX Studios ou do titular de direitos
+aplicável, é proibido:
+
+a) reupar, espelhar, republicar ou redistribuir o LunarX Builder ou seu
+   instalador;
+b) hospedar cópias em outros sites, repositórios, serviços de compartilhamento,
+   lojas, launchers, gerenciadores de pacotes ou plataformas de download;
+c) incluir o LunarX Builder em outro pacote de software, instalador, coletânea
+   ou produto comercial;
+d) vender, alugar, sublicenciar ou cobrar por cópias do LunarX Builder;
+e) fornecer cópias modificadas ou não modificadas a terceiros fora de um canal
+   de distribuição expressamente autorizado.
+
+Os usuários devem obter o LunarX Builder pelos links oficiais de distribuição
+da LunarX Studios.
+
+5. MODIFICAÇÕES E DISTRIBUIÇÃO DE DERIVADOS
+
+Sem autorização prévia e escrita, é proibido distribuir:
+
+a) versões modificadas do LunarX Builder;
+b) forks ou edições não oficiais;
+c) ports ou builds reempacotadas;
+d) produtos derivados baseados substancialmente em código, assets, interface ou
+   implementação interna protegidos do LunarX Builder;
+e) versões com avisos de copyright, licença, autoria ou identidade removidos ou
+   alterados.
+
+Alterações privadas e locais não concedem direito de publicar ou redistribuir a
+versão modificada.
+
+6. ENGENHARIA REVERSA E EXTRAÇÃO
+
+Na máxima extensão permitida pela legislação aplicável, é proibido realizar
+engenharia reversa, descompilar, desmontar, extrair, raspar ou analisar o
+LunarX Builder com a finalidade de copiar implementação protegida, criar clone
+não autorizado, contornar proteções técnicas, extrair código ou assets para
+reutilização ou viabilizar redistribuição não autorizada.
+
+Nada nesta seção afasta exceções obrigatórias e irrenunciáveis previstas na
+legislação aplicável.
+
+7. MARCAS E IDENTIDADE
+
+Esta licença não concede direitos de uso dos nomes LunarX Studios ou LunarX
+Builder, logos, identidade visual, marcas ou outros sinais distintivos, exceto
+quando razoavelmente necessário para identificar corretamente o software
+original.
+
+Nenhum produto, distribuição, fork, serviço ou site não oficial pode ser
+apresentado como oficial, aprovado, patrocinado ou endossado pela LunarX
+Studios.
+
+8. COMPONENTES DE TERCEIROS
+
+O LunarX Builder é construído com ou pode interagir com tecnologias de
+terceiros, incluindo um runtime baseado em Electron e ferramentas de
+desenvolvimento/build.
+
+Os componentes de terceiros permanecem sujeitos às suas próprias licenças e
+avisos.
+
+Esta licença proprietária se aplica somente aos materiais originais do LunarX
+Builder que a LunarX Studios ou o titular aplicável possua direito legal para
+licenciar.
+
+Quando uma licença de terceiro se aplicar a um componente específico, essa
+licença prevalece sobre aquele componente.
+
+Nada nesta licença transforma software open source de terceiros em software
+proprietário da LunarX.
+
+9. RESULTADOS GERADOS E RUNTIMES DE TERCEIROS
+
+Um build criado ou planejado pelo LunarX Builder pode incluir ou depender de
+runtimes, frameworks, bibliotecas, SDKs, ferramentas de build ou outros
+componentes de terceiros.
+
+O direito do usuário de distribuir um resultado depende das licenças e termos
+aplicáveis ao seu próprio projeto e a todos os componentes de terceiros
+incluídos ou necessários para aquele resultado.
+
+A licença do LunarX Builder não substitui essas obrigações.
+
+10. AUSÊNCIA DE GARANTIA DE CONFORMIDADE JURÍDICA OU DE PLATAFORMA
+
+O LunarX Builder é uma ferramenta de desenvolvimento. Ele não presta consultoria
+jurídica e não garante que um projeto do usuário ou resultado gerado cumpra
+todas as licenças, políticas de lojas, requisitos de assinatura de código,
+regras de privacidade, segurança, exportação ou outras obrigações jurídicas ou
+de plataforma.
+
+O usuário permanece responsável por revisar os requisitos aplicáveis aos seus
+próprios projetos e lançamentos.
+
+11. DISPONIBILIDADE E ATUALIZAÇÕES
+
+O LunarX Builder pode receber atualizações, correções, alterações de
+compatibilidade ou novas versões.
+
+Versões futuras podem fazer referência a uma versão atualizada desta licença.
+
+Esta licença não obriga a LunarX Studios a fornecer suporte, atualizações,
+compatibilidade ou disponibilidade permanentes para qualquer versão específica.
+
+12. AUSÊNCIA DE GARANTIA
+
+Na máxima extensão permitida pela legislação aplicável, o LunarX Builder é
+fornecido "NO ESTADO EM QUE SE ENCONTRA" ("AS IS") e "CONFORME DISPONÍVEL"
+("AS AVAILABLE"), sem garantia de funcionamento ininterrupto, compatibilidade
+universal, builds livres de erros, empacotamento bem-sucedido, aceitação por
+plataformas ou adequação a finalidade específica.
+
+Nada nesta seção exclui direitos ou responsabilidades que não possam ser
+legalmente excluídos.
+
+13. LIMITAÇÃO DOS DIREITOS CONCEDIDOS
+
+Todos os direitos não concedidos expressamente nesta licença permanecem
+reservados.
+
+O acesso ao instalador, arquivos do aplicativo, recursos ou documentação não
+concede por si só autorização para copiar, redistribuir, modificar,
+sublicenciar, vender ou reutilizar materiais protegidos do LunarX Builder.
+
+14. ENCERRAMENTO
+
+As permissões concedidas por esta licença terminam automaticamente em caso de
+violação material destes termos.
+
+O encerramento não elimina responsabilidades decorrentes de atos não
+autorizados anteriores.
+
+15. EXCEÇÕES LEGAIS OBRIGATÓRIAS
+
+Nada nesta licença pretende eliminar direitos, exceções, limitações ou
+permissões que a legislação aplicável determine como obrigatórios e
+irrenunciáveis.
+
+16. LEGISLAÇÃO APLICÁVEL
+
+Esta licença pretende ser interpretada conforme a legislação brasileira, sem
+excluir normas obrigatórias aplicáveis ao caso concreto.
+
+17. AUTORIZAÇÕES ESPECIAIS
+
+Qualquer autorização para redistribuir o LunarX Builder, publicar versões
+modificadas, incluí-lo em outro produto, sublicenciá-lo, revendê-lo ou utilizá-lo
+além das permissões expressamente concedidas exige autorização prévia e escrita
+da LunarX Studios ou do titular de direitos aplicável.
+
+18. RESUMO NÃO VINCULANTE
+
+PERMITIDO:
+- baixar o LunarX Builder por fonte oficial;
+- instalar e utilizar pessoalmente ou profissionalmente;
+- utilizá-lo em desenvolvimento comercial próprio;
+- analisar projetos próprios ou autorizados;
+- criar Build Plans e resultados de build;
+- publicar e vender seus próprios aplicativos quando possuir os direitos
+  necessários;
+- manter backup privado do instalador oficial.
+
+SEUS PROJETOS:
+- continuam sendo seus ou permanecem pertencendo aos titulares já existentes;
+- não se tornam propriedade da LunarX Studios apenas porque o LunarX Builder os
+  analisa ou compila.
+
+NÃO PERMITIDO SEM AUTORIZAÇÃO:
+- reupar ou espelhar o LunarX Builder;
+- redistribuir o instalador;
+- vender cópias do LunarX Builder;
+- distribuir versões modificadas, forks, ports ou edições reempacotadas;
+- copiar código ou assets protegidos do LunarX Builder para outro produto;
+- remover ou falsificar créditos;
+- apresentar versões não oficiais como lançamentos oficiais da LunarX Studios.
+
+Caso este resumo entre em conflito com o texto integral, prevalece o texto
+integral da licença.
+
+END OF LICENSE / FIM DA LICENÇA
