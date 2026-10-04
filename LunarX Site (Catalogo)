@@ -604,3 +604,31 @@ LunarX Builder foi criado e desenvolvido pela LunarX Studios.
 
 © 2026 LunarX Studios
 Todos os direitos reservados.
+
+---
+
+NOME: Devil May Cry 4 Refrain (Switch Port)
+VERSAO: 1.0.0
+LOGO: https://github.com/LunaxStudios-Officiall/LunarX-Studios/blob/LunarX-Logos/Devil%20May%20Cry%204%20Refrain%20(Switch%20Port)%20LOGO.png?raw=true
+PLATAFORMAS: Nintendo Switch
+LINKS:
+Nintendo Switch | https://drive.google.com/file/d/1Hgx8cN3hmVGfgK2o4re7Sbfcb2fNJwYP/view?usp=sharing
+Código-fonte | https://drive.google.com/file/d/1WP_9e9XCctlBzEskj-F7KsXcZg8jdJCw/view?usp=sharing
+Licença | https://raw.githubusercontent.com/LunaxStudios-Officiall/LunarX-Studios/refs/heads/LICENSE/DEVIL_MAY_CRY_4_REFRAIN_SWITCH_PORT_LICENSE.md
+DESCRICAO:
+Devil May Cry 4 Refrain (Switch Port) é um port não oficial da versão de iOS de Devil May Cry 4 Refrain para Nintendo Switch, desenvolvido pela LunarX Studios.
+
+O projeto adapta o jogo para funcionar no Nintendo Switch através de um runtime baseado em touchHLE, Dynarmic e libnx, mantendo a experiência original do jogo enquanto adiciona integração com os controles físicos do console.
+
+A interface originalmente criada para telas sensíveis ao toque foi adaptada para uso no Switch. Durante o gameplay, os comandos são feitos diretamente pelo controle, enquanto menus e outras telas utilizam um sistema de ponteiro controlado pelo analógico ou D-Pad, permitindo interagir com a interface como se estivesse utilizando a tela touchscreen.
+
+O port também conta com integração ao menu HOME através de um NSP, permitindo iniciar o jogo como um título instalado no console. Os saves são separados de acordo com o usuário selecionado no Nintendo Switch, permitindo que diferentes perfis mantenham seu próprio progresso.
+
+Diversas partes do jogo receberam adaptações específicas para melhorar a experiência no console, incluindo controles, menus, diálogos, sistema de save, carregamento, interface, estabilidade, desempenho e compatibilidade com o hardware do Nintendo Switch.
+
+O projeto possui código-fonte disponível para estudo, modificação e desenvolvimento de versões derivadas de acordo com as licenças aplicáveis a cada componente. A autoria original do port e os avisos de copyright e atribuição devem ser preservados conforme descrito na licença do projeto.
+
+Desenvolvido pela LunarX Studios.
+Desenvolvedor principal: João Davi.
+
+Este é um projeto não oficial e não possui afiliação, patrocínio ou aprovação da Capcom. Devil May Cry, Devil May Cry 4 Refrain e suas respectivas propriedades intelectuais pertencem à Capcom e/ou aos seus respectivos titulares.
