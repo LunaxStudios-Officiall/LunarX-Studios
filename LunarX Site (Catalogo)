@@ -618,17 +618,62 @@ Licença | https://raw.githubusercontent.com/LunaxStudios-Officiall/LunarX-Studi
 DESCRICAO:
 Devil May Cry 4 Refrain (Switch Port) é um port não oficial da versão de iOS de Devil May Cry 4 Refrain para Nintendo Switch, desenvolvido pela LunarX Studios.
 
-O projeto adapta o jogo para funcionar no Nintendo Switch através de um runtime baseado em touchHLE, Dynarmic e libnx, mantendo a experiência original do jogo enquanto adiciona integração com os controles físicos do console.
+O projeto adapta o jogo para funcionar no console mantendo sua experiência original, enquanto adiciona suporte aos controles físicos, integração com o menu HOME, saves separados por usuário e uma interface adaptada para deixar a versão mobile muito mais natural no Switch.
 
-A interface originalmente criada para telas sensíveis ao toque foi adaptada para uso no Switch. Durante o gameplay, os comandos são feitos diretamente pelo controle, enquanto menus e outras telas utilizam um sistema de ponteiro controlado pelo analógico ou D-Pad, permitindo interagir com a interface como se estivesse utilizando a tela touchscreen.
+Do touchscreen para o controle:
 
-O port também conta com integração ao menu HOME através de um NSP, permitindo iniciar o jogo como um título instalado no console. Os saves são separados de acordo com o usuário selecionado no Nintendo Switch, permitindo que diferentes perfis mantenham seu próprio progresso.
+A versão original foi criada para telas sensíveis ao toque.
 
-Diversas partes do jogo receberam adaptações específicas para melhorar a experiência no console, incluindo controles, menus, diálogos, sistema de save, carregamento, interface, estabilidade, desempenho e compatibilidade com o hardware do Nintendo Switch.
+No port, movimentação, ataques e outras ações podem ser realizadas diretamente pelos controles físicos do Nintendo Switch.
 
-O projeto possui código-fonte disponível para estudo, modificação e desenvolvimento de versões derivadas de acordo com as licenças aplicáveis a cada componente. A autoria original do port e os avisos de copyright e atribuição devem ser preservados conforme descrito na licença do projeto.
+Menus e telas que ainda dependem da interface touch utilizam um ponteiro controlado pelo analógico ou pelo D-Pad.
 
-Desenvolvido pela LunarX Studios.
+Pressione A e o ponteiro funciona como um toque na tela.
+
+Entre as adaptações estão:
+
+• Controles físicos durante o gameplay
+• Ponteiro para menus e interfaces touchscreen
+• Botão B para voltar ou cancelar
+• Botão + para pausa e ações específicas
+• Adaptação de diálogos e tutoriais
+• Remoção de controles mobile desnecessários
+• Ajustes de desempenho e estabilidade
+
+Integrado ao Nintendo Switch:
+
+O port inclui um NSP que permite iniciar Devil May Cry 4 Refrain diretamente pelo menu HOME do console.
+
+Ao abrir o jogo, o usuário selecionado no Nintendo Switch também determina qual save será utilizado.
+
+Isso permite que diferentes perfis mantenham seu próprio progresso sem compartilhar o mesmo salvamento.
+
+Um port construído para jogar:
+
+O objetivo do projeto não foi apenas fazer o jogo iniciar.
+
+Diversas partes precisaram ser adaptadas para que ele pudesse continuar funcionando durante missões, combates, menus, diálogos, carregamentos e mudanças de área.
+
+O resultado é uma versão pensada para ser jogada no Nintendo Switch de forma muito mais próxima de um título feito para o console.
+
+Código-fonte disponível:
+
+O código-fonte do port está disponível para estudo, modificação e desenvolvimento de versões derivadas de acordo com as licenças aplicáveis a cada componente.
+
+O projeto utiliza touchHLE, Dynarmic, libnx e outras tecnologias open source, que permanecem sujeitas às licenças e créditos de seus respectivos autores.
+
+O jogo original não faz parte do código-fonte do port.
+
+Devil May Cry 4 Refrain (Switch Port) — a experiência de Refrain adaptada para uma nova plataforma.
+
+Créditos:
+
+O Nintendo Switch Port de Devil May Cry 4 Refrain foi desenvolvido pela LunarX Studios.
+
 Desenvolvedor principal: João Davi.
 
-Este é um projeto não oficial e não possui afiliação, patrocínio ou aprovação da Capcom. Devil May Cry, Devil May Cry 4 Refrain e suas respectivas propriedades intelectuais pertencem à Capcom e/ou aos seus respectivos titulares.
+Devil May Cry e Devil May Cry 4 Refrain pertencem à Capcom e/ou aos seus respectivos titulares.
+
+Este é um projeto não oficial e não possui afiliação, patrocínio ou aprovação da Capcom.
+
+© 2026 LunarX Studios
