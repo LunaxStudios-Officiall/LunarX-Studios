@@ -446,106 +446,76 @@ Windows |
 Código-fonte |
 Licença | 
 DESCRICAO:
-LunarX Parking 1.0.0 é um sistema de gerenciamento de estacionamentos desenvolvido pela LunarX Studios, criado para oferecer controle, organização e praticidade na administração de veículos, clientes e movimentações financeiras.
+LunarX Parking 1.0.0 é um aplicativo de gerenciamento de estacionamentos para Windows, desenvolvido pela LunarX Studios.
 
-O projeto reúne ferramentas operacionais e administrativas em uma única aplicação, com interface moderna, funcionamento offline, recursos de personalização e controle financeiro integrado.
+Criado para acompanhar a rotina do estabelecimento, o sistema reúne controle de veículos, serviços, clientes, pagamentos e administração financeira em uma interface moderna, organizada e personalizável. Tudo em um único aplicativo, com funcionamento offline.
 
-Do pátio à gestão completa:
+Do primeiro veículo ao fechamento de caixa:
 
-O LunarX Parking acompanha a rotina de um estacionamento desde a entrada de um veículo até sua saída.
+O LunarX Parking permite registrar a entrada de veículos, acompanhar o pátio em atividade, adicionar serviços e finalizar atendimentos com cobranças calculadas conforme as regras de cada estacionamento.
 
-O sistema permite registrar veículos, acompanhar atendimentos em andamento, adicionar serviços, calcular valores e registrar pagamentos conforme as regras configuradas pelo estabelecimento.
-
-Tudo isso em um ambiente organizado para tornar as operações do dia a dia mais rápidas e eficientes.
+A área de Pátio concentra as operações essenciais, facilitando a consulta dos veículos em permanência e a realização de entradas e saídas durante o expediente.
 
 Entre as funcionalidades estão:
 
-• Entrada, saída e gerenciamento de veículos
-• Pátio com acompanhamento dos atendimentos
-• Cadastro e histórico de clientes
-• Serviços adicionais, como lavagem
-• Tarifas por tempo, diária e regras personalizadas
-• Descontos, tolerâncias e configurações de cobrança
-• Formas de pagamento configuráveis
-• Controle de dívidas e pagamentos pendentes
-• Gestão de clientes do Clube
-• Planos, assinaturas e benefícios
-• Gerenciamento de Mensalistas
+• Entrada, acompanhamento e saída de veículos
+• Controle de vagas e consulta do pátio
+• Cobrança por tempo, diária e serviços adicionais
+• Tarifas, tolerâncias e descontos configuráveis
+• Cadastro e histórico de clientes e veículos
+• Clube de benefícios, planos e associados
+• Mensalistas, períodos contratados e pagamentos
+• Formas de pagamento personalizáveis
+• Controle de dívidas e quitação de pendências
 • Abertura, movimentação e fechamento de caixa
-• Separação de recebimentos por forma de pagamento
-• Dashboard com indicadores operacionais
-• Relatórios financeiros e históricos
-• Impressão de comprovantes e documentos
-• Controle de usuários e permissões
-• Registro de ações e auditoria
-• Backup e restauração de dados
+• Separação de recebimentos por origem e forma de pagamento
+• Dashboard com indicadores operacionais e financeiros
+• Históricos, relatórios e reimpressões
+• Comprovantes para impressoras térmicas e documentos em PDF
+• Usuários, permissões e registros de auditoria
+• Backup, restauração e personalização visual
 • Temas claro e escuro
-• Personalização da identidade visual do estacionamento
 
-Controle financeiro em cada operação:
+Controle financeiro com informações claras:
 
-O módulo Caixa reúne as movimentações realizadas durante os turnos, permitindo acompanhar receitas, pagamentos, sangrias, reforços e valores pendentes.
+O módulo Caixa organiza recebimentos, movimentações, sangrias, reforços e valores a receber. Cada forma de pagamento pode ser acompanhada separadamente, incluindo dinheiro, Pix, cartão e os métodos cadastrados pelo estabelecimento.
 
-Os recebimentos são organizados por origem e forma de pagamento, facilitando a conferência de valores recebidos em dinheiro, Pix, cartão e outros métodos cadastrados.
+Os históricos e relatórios ajudam a consultar os resultados de diferentes períodos, enquanto as pendências permanecem registradas até sua quitação, sem serem confundidas com dinheiro já recebido.
 
-Fechamentos, históricos e relatórios oferecem uma visão mais detalhada da atividade financeira do estacionamento.
+Clube e Mensalistas integrados à operação:
 
-Clube e Mensalistas:
+O sistema oferece ferramentas para administrar associados do Clube, planos, benefícios e pagamentos, além de gerenciar mensalistas, veículos vinculados e períodos contratados.
 
-O LunarX Parking também foi pensado para estabelecimentos que trabalham com clientes frequentes.
+Essas modalidades fazem parte da mesma rotina de atendimento e cobrança, permitindo trabalhar com clientes avulsos e recorrentes no mesmo aplicativo.
 
-O Clube permite cadastrar associados, administrar planos, pagamentos e benefícios.
+Comprovantes e relatórios prontos para a rotina:
 
-O módulo Mensalistas organiza clientes, veículos vinculados, períodos contratados e históricos de pagamento.
+No Windows, o LunarX Parking permite selecionar uma impressora instalada e memorizar a preferência para os próximos comprovantes. A impressão pode ser enviada diretamente à fila configurada, inclusive para impressoras térmicas compatíveis, como modelos Epson com papel de 80 mm.
 
-Esses recursos funcionam integrados à operação do estacionamento, evitando a necessidade de gerenciar diferentes modalidades de atendimento em sistemas separados.
+Relatórios e documentos financeiros também podem ser gerados em PDF, facilitando a consulta, o arquivamento e o compartilhamento.
 
-Uma interface pensada para trabalhar:
+Personalizado para o seu estacionamento:
 
-O sistema possui uma interface adaptável, com navegação organizada, indicadores operacionais, temas claro e escuro e recursos de personalização.
+A interface oferece temas claro e escuro, layout adaptável ao tamanho da janela e a possibilidade de utilizar a logo do próprio estabelecimento nas áreas operacionais.
 
-Cada estabelecimento pode utilizar sua própria logo nas áreas operacionais, mantendo a identidade oficial do LunarX Parking nas áreas reservadas à marca.
+O sistema mantém a identidade oficial do LunarX Parking nas telas e espaços reservados à marca.
 
-Desenvolvido para Windows:
+Aplicativo Windows com funcionamento offline:
 
-O LunarX Parking é distribuído como um aplicativo instalável para Windows, desenvolvido a partir de uma arquitetura modular em HTML, CSS e JavaScript.
+O LunarX Parking é distribuído por meio de um instalador para Windows. A operação principal funciona localmente, sem depender de conexão constante com a internet.
 
-Seu funcionamento offline permite realizar as principais operações sem depender de uma conexão constante com a internet.
+As informações são mantidas no ambiente do aplicativo, com recursos de backup e restauração para auxiliar na proteção e na recuperação dos registros.
 
-Os dados são armazenados localmente, com ferramentas de backup e restauração para auxiliar na preservação das informações.
-
-Uma versão construída para operar:
-
-A versão 1.0.0 marca o primeiro lançamento público do LunarX Parking.
-
-Durante seu desenvolvimento, o sistema passou por diferentes etapas de evolução, melhorias na interface, ajustes financeiros e testes automatizados.
-
-Uma das etapas de validação incluiu 19.000 cenários automatizados, abrangendo combinações de operações, cobranças, pagamentos, movimentações financeiras e integração entre módulos.
-
-O objetivo do projeto não foi apenas criar um sistema de entrada e saída de veículos.
-
-Foi desenvolver uma ferramenta capaz de acompanhar a rotina de um estacionamento, reunindo operações, clientes e administração financeira em um só lugar.
-
-Código-fonte:
-
-O código-fonte do LunarX Parking está sendo preparado para disponibilização pública, permitindo o estudo de sua arquitetura e o acompanhamento de seu desenvolvimento.
-
-As condições de modificação, utilização e redistribuição serão estabelecidas pela licença oficial do projeto.
-
-As tecnologias e dependências utilizadas permanecem sujeitas às licenças e aos créditos de seus respectivos autores.
-
-LunarX Parking 1.0.0 — o controle do seu estacionamento em um só lugar.
+LunarX Parking 1.0.0 — da entrada do veículo à gestão do estacionamento, tudo em um só lugar.
 
 Créditos:
 
-O LunarX Parking foi desenvolvido pela LunarX Studios.
+Desenvolvimento e publicação: LunarX Studios
+
+Aplicativo: LunarX Parking
 
 Versão: 1.0.0
 
 Plataforma: Windows
-
-Desenvolvimento e publicação: LunarX Studios
-
-© 2026 LunarX Studios
 
 ---
