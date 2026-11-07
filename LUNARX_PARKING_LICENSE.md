@@ -244,10 +244,13 @@ Components including Electron, electron-builder, Playwright and installer
 scripts adapted from electron-builder remain subject to the respective
 upstream licenses and any mandatory notices.
 
-The original project's legal copyright holder (including whether it is a
-natural person or a juridical entity) must be confirmed before adding a formal
-copyright-owner assertion. The source package currently names LunarX Studios
-as its author; an earlier briefing also references Monarex Studios.
+LunarX Studios is the official public-facing project and publishing identity
+used for LunarX Parking. It is an independent studio/project name; this
+attribution does not represent LunarX Studios as a registered company or
+separate legal entity. Copyright in original contributions remains with
+their lawful author(s) or rights holder(s) under applicable law. This
+NOTICE neither transfers those rights nor claims ownership of third-party
+components.
 
 For a modified version, preserve the required copyright, license, patent,
 trademark and attribution notices under Apache-2.0 Section 4, and clearly
